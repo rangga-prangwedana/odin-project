@@ -1,1 +1,1 @@
-# odin-project
+My journey with The Odin Project :))
